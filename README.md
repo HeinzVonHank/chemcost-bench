@@ -1,3 +1,8 @@
+> **This anonymous review snapshot is superseded and no longer maintained.** Use the official release:
+> code at [github.com/HeinzVonHank/ChemCost](https://github.com/HeinzVonHank/ChemCost), dataset at
+> [huggingface.co/datasets/YoungerWu/ChemCost](https://huggingface.co/datasets/YoungerWu/ChemCost),
+> paper [arXiv:2605.07251](https://arxiv.org/abs/2605.07251), project page [chemcost.org](https://chemcost.org).
+
 # ChemCost --- A Benchmark for Chemical Reaction Procurement Cost Estimation by LLM Agents
 
 **Anonymous release for double-blind review at NeurIPS 2026 (Datasets and Benchmarks Track).**
